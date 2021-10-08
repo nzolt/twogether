@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="" tests="10" assertions="10" errors="0" warnings="0" failures="0" skipped="0" time="0.058884">
+    <testsuite name="unit" tests="10" assertions="10" errors="0" warnings="0" failures="0" skipped="0" time="0.058884">
+      <testsuite name="Tests\Unit\HelpersTest" file="/home/nzolt/Desktop/Code/twogether/Tests/unit/HelpersTest.php" tests="7" assertions="7" errors="0" warnings="0" failures="0" skipped="0" time="0.044345">
+        <testsuite name="Tests\Unit\HelpersTest::testGetNextWorkingDay" tests="7" assertions="7" errors="0" warnings="0" failures="0" skipped="0" time="0.044345">
+          <testcase name="testGetNextWorkingDay with data set #6" class="Tests\Unit\HelpersTest" classname="Tests.Unit.HelpersTest" file="/home/nzolt/Desktop/Code/twogether/Tests/unit/HelpersTest.php" line="23" assertions="1" time="0.012117"/>
+          <testcase name="testGetNextWorkingDay with data set #0" class="Tests\Unit\HelpersTest" classname="Tests.Unit.HelpersTest" file="/home/nzolt/Desktop/Code/twogether/Tests/unit/HelpersTest.php" line="23" assertions="1" time="0.008785"/>
+          <testcase name="testGetNextWorkingDay with data set #4" class="Tests\Unit\HelpersTest" classname="Tests.Unit.HelpersTest" file="/home/nzolt/Desktop/Code/twogether/Tests/unit/HelpersTest.php" line="23" assertions="1" time="0.004481"/>
+          <testcase name="testGetNextWorkingDay with data set #2" class="Tests\Unit\HelpersTest" classname="Tests.Unit.HelpersTest" file="/home/nzolt/Desktop/Code/twogether/Tests/unit/HelpersTest.php" line="23" assertions="1" time="0.004300"/>
+          <testcase name="testGetNextWorkingDay with data set #5" class="Tests\Unit\HelpersTest" classname="Tests.Unit.HelpersTest" file="/home/nzolt/Desktop/Code/twogether/Tests/unit/HelpersTest.php" line="23" assertions="1" time="0.004167"/>
+          <testcase name="testGetNextWorkingDay with data set #3" class="Tests\Unit\HelpersTest" classname="Tests.Unit.HelpersTest" file="/home/nzolt/Desktop/Code/twogether/Tests/unit/HelpersTest.php" line="23" assertions="1" time="0.003878"/>
+          <testcase name="testGetNextWorkingDay with data set #1" class="Tests\Unit\HelpersTest" classname="Tests.Unit.HelpersTest" file="/home/nzolt/Desktop/Code/twogether/Tests/unit/HelpersTest.php" line="23" assertions="1" time="0.006618"/>
+        </testsuite>
+      </testsuite>
+      <testsuite name="Tests\Unit\ValidatorsTest" file="/home/nzolt/Desktop/Code/twogether/Tests/unit/ValidatorsTest.php" tests="2" assertions="2" errors="0" warnings="0" failures="0" skipped="0" time="0.009678">
+        <testcase name="testDateValidatorException" class="Tests\Unit\ValidatorsTest" classname="Tests.Unit.ValidatorsTest" file="/home/nzolt/Desktop/Code/twogether/Tests/unit/ValidatorsTest.php" line="34" assertions="1" time="0.005605"/>
+        <testcase name="testDateValidator" class="Tests\Unit\ValidatorsTest" classname="Tests.Unit.ValidatorsTest" file="/home/nzolt/Desktop/Code/twogether/Tests/unit/ValidatorsTest.php" line="26" assertions="1" time="0.004073"/>
+      </testsuite>
+      <testsuite name="Tests\Unit\CakeServiceTest" file="/home/nzolt/Desktop/Code/twogether/Tests/unit/CakeServiceTest.php" tests="1" assertions="1" errors="0" warnings="0" failures="0" skipped="0" time="0.004862">
+        <testsuite name="Tests\Unit\CakeServiceTest::testProcessData" tests="1" assertions="1" errors="0" warnings="0" failures="0" skipped="0" time="0.004862">
+          <testcase name="testProcessData with data set #0" class="Tests\Unit\CakeServiceTest" classname="Tests.Unit.CakeServiceTest" file="/home/nzolt/Desktop/Code/twogether/Tests/unit/CakeServiceTest.php" line="24" assertions="1" time="0.004862"/>
+        </testsuite>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>
